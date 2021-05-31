@@ -1,0 +1,8 @@
+rootProject.name = "pr4"
+include ':app'
+include ':data_thread'
+include ':gradle'
+include ':loadermanager'
+include ':looper'
+include ':thread'
+include ':workmanager'
